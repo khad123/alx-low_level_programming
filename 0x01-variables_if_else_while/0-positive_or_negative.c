@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include <stdliab.h>
+#include <stdlib.h>
 #include <time.h>
 /*
  * main - A program that will assign a random number and print whether this number is positive or negative.
