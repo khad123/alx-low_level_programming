@@ -5,13 +5,13 @@
  */
 int main(void)
 {
-int i;
 char c;
+int i;
 long int ic;
 long long int d;
-float f;
-printf("Size of a int: %lu byte(s)\n", (unsigned long) sizeof(i));
+float fi;
 printf("Size of a Char: %lu byte(s)\n", (unsigned long) sizeof(c));
+printf("Size of a int: %lu byte(s)\n", (unsigned long) sizeof(i));
 printf("Size of a long int: %lu byte(s)\n", (unsigned long) sizeof(ic));
 printf("Size of a long long int: %lu byte(s)\n", (unsigned long) sizeof(d));
 printf("Size of a float: %lu byte(s)\n", (unsigned long) sizeof(f));
