@@ -2,7 +2,11 @@
 
 /**
  * main - Entry point
- * return: 0 (Success)
+ *
+ * This function prints the lowercase alphabet
+ * and returns 0 to indicate success.
+ *
+ * return: Always 0 (Success)
  */
 
 int main(void)
