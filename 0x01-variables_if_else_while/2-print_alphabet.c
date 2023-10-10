@@ -4,9 +4,9 @@
  * main - Entry point
  *
  * This function prints the lowercase alphabet
- * and returns 0 to indicate success.
+ * and returns 0 to indicate successful execution.
  *
- * return: Always 0 (Success)
+ * Return: Always 0 (Success)
  */
 
 int main(void)
